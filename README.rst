@@ -38,42 +38,7 @@ To run an example:
 This will open the notebook and display outputs that match the theoretical results presented in the research paper.
 
 
-.. Simple Example
 
-Simple Example
---------------
-
-A basic Python script to check data behavior and uniform convergence:
-
-.. code:: python
-
-   import numpy as np
-   import matplotlib.pyplot as plt
-
-   # Generate dependent Gaussian samples
-   n = 100
-   gamma = 0.5  # Dependency factor
-   x = np.random.randn(n)
-   for i in range(1, n):
-       x[i] = gamma * x[i-1] + np.sqrt(1 - gamma**2) * np.random.randn()
-
-   # Plot the dependent data
-   plt.plot(x)
-   plt.title("Generated Dependent Gaussian Data")
-   plt.show()
-
-.. Test
-
-Testing
--------
-
-After installation, you can run unit tests with:
-
-.. code:: bash
-
-   pytest tests/
-
-We test against Python versions **3.8, 3.9, 3.10, 3.11**.
 
 .. Versioning
 
