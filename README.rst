@@ -84,6 +84,16 @@ You can view the full license text here: https://www.gnu.org/licenses/gpl-3.0
 By using this repository, you agree to comply with the terms and conditions of the GPL-3.0 license.
 
 
+.. Contributors
+
+Contributors
+------------
+- **Mina Sadat Mahmoudi** (Primary Author)
+- Saeed Foroutan
+- Seyed Abolfazl Motahari
+- Babak Khalaj
+
+
 .. Citing
 
 Citing
