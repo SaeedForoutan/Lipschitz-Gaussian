@@ -14,7 +14,8 @@ Numerical experiments are in the `examples/` folder.
 
 Paper Link
 ----------
-`https://doi.org/10.1109/ICASSP49660.2025.10889753`_
+`https://doi.org/10.1109/ICASSP49660.2025.10889753 <https://doi.org/10.1109/ICASSP49660.2025.10889753>`_
+
 
 
 
