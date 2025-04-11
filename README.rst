@@ -102,7 +102,9 @@ Citing
 If you find this repository or the associated methods helpful in your research, please cite the following paper:
 
 **Mina Sadat Mahmoudi**, **Saeed Foroutan**, **Seyed Abolfazl Motahari**, and **Babak Khalaj**  
+
 **Uniform Convergence of Lipschitz Functions with Dependent Gaussian Samples**  
+
 Presented at *ICASSP 2025*.
 
 BibTeX:
