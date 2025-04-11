@@ -89,25 +89,24 @@ By using this repository, you agree to comply with the terms and conditions of t
 Citing
 ------
 
-If you use this repository or the associated methods in your research, please cite the following paper:
+If you find this repository or the associated methods helpful in your research, please cite the following paper:
 
-**Mina Sadat Mahmoudi**, **Saeed Foroutan**, **Seyed Abolfazl Motahari**, **Babak Khalaj**.  
-**Uniform Convergence of Lipschitz Functions with Dependent Gaussian Samples**.  
-ICASSP 2025.
+**Mina Sadat Mahmoudi**, **Saeed Foroutan**, **Seyed Abolfazl Motahari**, and **Babak Khalaj**  
+**Uniform Convergence of Lipschitz Functions with Dependent Gaussian Samples**  
+Presented at *ICASSP 2025*.
 
-Bibtex:
+BibTeX:
+::
 
-@INPROCEEDINGS{10889753,
-  author={Mahmoudi, Mina Sadat and Foroutan, Saeed and Motahari, Seyed Abolfazl and Khalaj, Babak},
-  booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
-  title={Uniform Convergence of Lipschitz Functions with Dependent Gaussian Samples}, 
-  year={2025},
-  volume={},
-  number={},
-  pages={1-5},
-  keywords={Training;Neural networks;Signal processing;Gaussian distribution;Numerical simulation;Acoustics;Numerical models;Speech processing;Convergence;Uniform Convergence;Dependent Gaussian Data;Lipschitz Functions;Covering Number;Time Series},
-  doi={10.1109/ICASSP49660.2025.10889753}}
-
+  @INPROCEEDINGS{10889753,
+    author={Mahmoudi, Mina Sadat and Foroutan, Saeed and Motahari, Seyed Abolfazl and Khalaj, Babak},
+    booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+    title={Uniform Convergence of Lipschitz Functions with Dependent Gaussian Samples}, 
+    year={2025},
+    pages={1-5},
+    keywords={Training;Neural networks;Signal processing;Gaussian distribution;Numerical simulation;Acoustics;Numerical models;Speech processing;Convergence;Uniform Convergence;Dependent Gaussian Data;Lipschitz Functions;Covering Number;Time Series},
+    doi={10.1109/ICASSP49660.2025.10889753}
+  }
 
 
 .. Acknowledgments
