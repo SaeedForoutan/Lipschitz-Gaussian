@@ -11,8 +11,11 @@ This repository contains the research paper and code related to **Uniform Conver
 
 Numerical experiments are in the `examples/` folder.
 
-.. note::
-    The ICASSP 2025 paper referenced here is currently not public. We will share further details and its publication status soon.
+
+Paper Link
+----------
+`https://doi.org/10.1109/ICASSP49660.2025.10889753`_
+
 
 
 .. Examples
@@ -92,9 +95,20 @@ If you use this repository or the associated methods in your research, please ci
 **Uniform Convergence of Lipschitz Functions with Dependent Gaussian Samples**.  
 ICASSP 2025.
 
-.. note::
+Bibtex:
 
-   A BibTeX citation entry will be provided after publication notification.
+@INPROCEEDINGS{10889753,
+  author={Mahmoudi, Mina Sadat and Foroutan, Saeed and Motahari, Seyed Abolfazl and Khalaj, Babak},
+  booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Uniform Convergence of Lipschitz Functions with Dependent Gaussian Samples}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Training;Neural networks;Signal processing;Gaussian distribution;Numerical simulation;Acoustics;Numerical models;Speech processing;Convergence;Uniform Convergence;Dependent Gaussian Data;Lipschitz Functions;Covering Number;Time Series},
+  doi={10.1109/ICASSP49660.2025.10889753}}
+
+
 
 .. Acknowledgments
 
