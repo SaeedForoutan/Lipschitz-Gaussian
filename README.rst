@@ -88,7 +88,7 @@ By using this repository, you agree to comply with the terms and conditions of t
 
 Contributors
 ------------
-- **Mina Sadat Mahmoudi** (Primary Author)
+- **Mina Sadat Mahmoudi** (Primary Author) | `GitHub <https://github.com/msmah>`__
 - Saeed Foroutan
 - Seyed Abolfazl Motahari
 - Babak Khalaj
